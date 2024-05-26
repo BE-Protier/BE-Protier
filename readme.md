@@ -4,4 +4,4 @@
 
 ## Table of Contents
 
-1. [대규모 시스템 설계](https://github.com/BE-Protier/BE-Protier/blob/main/가상%20면접%20사례로%20배우는%20대규모%20시스템%20설계.)
+1. [대규모 시스템 설계](https://github.com/BE-Protier/BE-Protier/blob/main/가상%20면접%20사례로%20배우는%20대규모%20시스템%20설계)
