@@ -6,7 +6,7 @@ This is a global readme that will continue to grow as we add more topics. Each t
 
 [대규모 시스템 설계](https://github.com/BE-Protier/BE-Protier/blob/main/가상%20면접%20사례로%20배우는%20대규모%20시스템%20설계)
 
-[1장 사용자 수에 따른 규모 확장성]()
+[1장 사용자 수에 따른 규모 확장성](https://github.com/BE-Protier/BE-Protier/blob/main/가상%20면접%20사례로%20배우는%20대규모%20시스템%20설계/1장/1장%20사용자%20수에%20따른%20규모%20확장성.md)
 
 [2장 개략적인 규모 추정](https://github.com/BE-Protier/BE-Protier/blob/main/가상%20면접%20사례로%20배우는%20대규모%20시스템%20설계/2장/2장%20개략적인%20규모%20추정.md)
 
